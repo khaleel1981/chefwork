@@ -1,0 +1,2 @@
+192.168.185.202 root ctrls.123 chefnode1
+192.168.185.203 root ctrls.123 chefnode2
